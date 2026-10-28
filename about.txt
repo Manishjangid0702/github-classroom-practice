@@ -1,0 +1,4 @@
+My name is Manish.
+I am a B.Tech CSE student.
+I am learning Git and GitHub.
+This is my branch practical.
